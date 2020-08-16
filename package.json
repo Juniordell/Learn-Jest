@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-
   "scripts": {
     "test": "jest"
   },
-
   "devDependencies": {
     "jest": "^26.4.0"
+  },
+  "dependencies": {
+    "jest-cli": "^26.4.0"
   }
 }
